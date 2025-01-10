@@ -1,0 +1,1 @@
+This example demonstrates a common error in Ada: division by zero. The program attempts to divide by zero, raising a Constraint_Error exception. The solution shows how to properly handle this exception to prevent program crashes.  The bug file shows the error, and the solution file shows the corrected code with exception handling.
